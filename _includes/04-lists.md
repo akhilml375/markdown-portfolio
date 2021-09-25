@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* anaconda
+* f&S
+  * F$S!
+  * F#!@
